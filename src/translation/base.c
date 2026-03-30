@@ -4,7 +4,7 @@
 #include "pirate.h"
 #include "system_config.h"
 #include "translation/en-us.h"
-// #include "translation/zh-cn.h"
+#include "translation/zh-cn.h"
 #include "translation/pl-pl.h"
 #include "translation/bs-ba.h"
 #include "translation/it-it.h"

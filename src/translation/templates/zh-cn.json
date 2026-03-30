@@ -352,5 +352,1062 @@
         "EN_US": null,
         "Comments": null,
         "DataTypes": []
+    },
+    "T_GND": {
+        "Localized": "地线",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_INPUT": {
+        "Localized": "输入",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_OUTPUT": {
+        "Localized": "输出",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_EXIT": {
+        "Localized": "退出",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_LOADED": {
+        "Localized": "已加载",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_SAVED": {
+        "Localized": "已保存",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HZ": {
+        "Localized": "赫兹",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_KHZ": {
+        "Localized": "千赫",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MHZ": {
+        "Localized": "兆赫",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_SPEED": {
+        "Localized": "速度",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_PRESS_ANY_KEY": {
+        "Localized": "按任意键",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_PRESS_BUTTON": {
+        "Localized": "按下按钮",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_PRESS_X_TO_EXIT": {
+        "Localized": "按'x'键退出",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_MODE_SELECTION": {
+        "Localized": "模式选择",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_NUMBER_DISPLAY_FORMAT": {
+        "Localized": "数字显示格式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_BITORDER": {
+        "Localized": "比特位顺序",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_BITORDER_MSB": {
+        "Localized": "高位优先",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_BITORDER_LSB": {
+        "Localized": "低位优先",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_DELAY": {
+        "Localized": "延迟",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_US": {
+        "Localized": "微秒",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_MS": {
+        "Localized": "毫秒",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_ADC_VOLTAGE": {
+        "Localized": "电压测量",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_ERROR_PARSING_MACRO": {
+        "Localized": "宏命令解析错误",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_ERROR_NO_MACROS_AVAILABLE": {
+        "Localized": "没有可用的宏命令",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_ERROR_MACRO_NOT_DEFINED": {
+        "Localized": "宏命令未定义",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_DISPLAY": {
+        "Localized": "显示",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_DISPLAY_SELECTION": {
+        "Localized": "显示选择",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_SPEED_MENU_1": {
+        "Localized": "1至62500千赫",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_BITS_MENU_1": {
+        "Localized": "4至8位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_CLOCK_PHASE_MENU_1": {
+        "Localized": "前向边沿",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_CLOCK_PHASE_MENU_2": {
+        "Localized": "后向边沿",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_CS_IDLE_MENU": {
+        "Localized": "芯片选择",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_CS_IDLE_MENU_1": {
+        "Localized": "高电平有效(CS)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWSPI_CS_IDLE_MENU_2": {
+        "Localized": "低电平有效(/CS)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_SPEED_MENU_1": {
+        "Localized": "1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200等",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_PARITY_MENU": {
+        "Localized": "校验位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_PARITY_MENU_1": {
+        "Localized": "无",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_PARITY_MENU_2": {
+        "Localized": "偶校验",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_PARITY_MENU_3": {
+        "Localized": "奇校验",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_DATA_BITS_MENU": {
+        "Localized": "数据位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_DATA_BITS_MENU_1": {
+        "Localized": "5至8位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_STOP_BITS_MENU": {
+        "Localized": "停止位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_STOP_BITS_MENU_1": {
+        "Localized": "1位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_STOP_BITS_MENU_2": {
+        "Localized": "2位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_BLOCKING_MENU_1": {
+        "Localized": "否",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_BLOCKING_MENU_2": {
+        "Localized": "是",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_OPEN": {
+        "Localized": "UART已打开",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_CLOSE": {
+        "Localized": "UART已关闭",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_UART_NO_DATA_READ": {
+        "Localized": "没有数据可读",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_SPEED_MENU": {
+        "Localized": "I2C速度",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_SPEED_MENU_1": {
+        "Localized": "1千赫至1000千赫",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_START": {
+        "Localized": "I2C启动",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_REPEATED_START": {
+        "Localized": "I2C重复启动",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_STOP": {
+        "Localized": "I2C停止",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_ACK": {
+        "Localized": "确认",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_NACK": {
+        "Localized": "不确认",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_NO_PULLUP_DETECTED": {
+        "Localized": "未检测到上拉电阻",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_NO_VOUT_DETECTED": {
+        "Localized": "未检测到电源",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_TIMEOUT": {
+        "Localized": "I2C超时",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HWI2C_I2C_ERROR": {
+        "Localized": "I2C总线错误",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HW1WIRE_RESET": {
+        "Localized": "单总线复位",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HW1WIRE_PRESENCE_DETECT": {
+        "Localized": "检测到设备",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HW1WIRE_NO_DEVICE": {
+        "Localized": "未检测到设备",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_INFO_FLASH": {
+        "Localized": "闪存",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_INFO_WITH": {
+        "Localized": "配置",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_INFO_WEBSITE": {
+        "Localized": "https://buspirate.com/",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_FILE": {
+        "Localized": "配置文件",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_CONFIGURATION_OPTIONS": {
+        "Localized": "配置选项",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LANGUAGE": {
+        "Localized": "语言 / Language / 语言",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_ANSI_COLOR_MODE": {
+        "Localized": "ANSI颜色模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_ANSI_COLOR_FULLCOLOR": {
+        "Localized": "ANSI全彩(16M色)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_ANSI_COLOR_256": {
+        "Localized": "ANSI-256色",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_ANSI_TOOLBAR_MODE": {
+        "Localized": "ANSI工具栏模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_DISABLE": {
+        "Localized": "禁用",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_ENABLE": {
+        "Localized": "启用",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_SCREENSAVER": {
+        "Localized": "LCD屏保",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_SCREENSAVER_5": {
+        "Localized": "5分钟",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_SCREENSAVER_10": {
+        "Localized": "10分钟",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_SCREENSAVER_15": {
+        "Localized": "15分钟",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LEDS_EFFECT": {
+        "Localized": "LED效果",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LEDS_EFFECT_SOLID": {
+        "Localized": "常亮",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LEDS_EFFECT_CYCLE": {
+        "Localized": "派对模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LEDS_COLOR": {
+        "Localized": "LED颜色",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LEDS_COLOR_RAINBOW": {
+        "Localized": "彩虹色",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_CONFIG_LEDS_BRIGHTNESS": {
+        "Localized": "LED亮度",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_IO": {
+        "Localized": "引脚、输入输出测量",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_CAPTURE": {
+        "Localized": "模拟和数字信号测量",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_CONFIGURE": {
+        "Localized": "配置终端、LED、显示和模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_SYSTEM": {
+        "Localized": "重启、固件更新和诊断",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_FILES": {
+        "Localized": "列出文件和浏览存储",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_PROGRAMS": {
+        "Localized": "实用命令和小程序",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_MODE": {
+        "Localized": "进入协议模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_SYNTAX": {
+        "Localized": "使用总线语法发送和接收数据",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_HELP": {
+        "Localized": "获取更多帮助",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_LS": {
+        "Localized": "列出文件",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_CD": {
+        "Localized": "切换目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_MKDIR": {
+        "Localized": "创建目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_RM": {
+        "Localized": "删除文件/目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_PAUSE": {
+        "Localized": "暂停等待按键",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_FORMAT": {
+        "Localized": "格式化存储磁盘(FAT16)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_CAT": {
+        "Localized": "显示文件内容",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_HEX": {
+        "Localized": "以十六进制显示文件内容",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_2": {
+        "Localized": "转换x/反相x",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SYSTEM_REBOOT": {
+        "Localized": "重启Bus Pirate",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_7": {
+        "Localized": "设置IO.x状态(低/高/输入)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_COMMAND_AUX": {
+        "Localized": "设置IO x状态(低/高/输入)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_COMMAND_DISPLAY": {
+        "Localized": "更改屏幕显示模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_9": {
+        "Localized": "配置终端、语言、LED",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_14": {
+        "Localized": "Bus Pirate版本和状态信息",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_15": {
+        "Localized": "比特位顺序(高位/低位)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_17": {
+        "Localized": "选择数字显示方式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_1_20": {
+        "Localized": "显示电压/状态",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_1": {
+        "Localized": "模式宏x/列出全部",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_3": {
+        "Localized": "启动/启动II(模式相关)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_4": {
+        "Localized": "停止/停止II(模式相关)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_7": {
+        "Localized": "写入字符串",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_8": {
+        "Localized": "写入值(十进制)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_9": {
+        "Localized": "写入值(十六进制)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_10": {
+        "Localized": "写入值(二进制)",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2_11": {
+        "Localized": "读取",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SYN_CLOCK_HIGH": {
+        "Localized": "时钟高",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SYN_CLOCK_LOW": {
+        "Localized": "时钟低",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SYN_DATA_HIGH": {
+        "Localized": "数据高",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SYN_DATA_LOW": {
+        "Localized": "数据低",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SYN_DATA_READ": {
+        "Localized": "读取数据引脚状态",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_HINT": {
+        "Localized": "用;连接多个命令",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_FLASH": {
+        "Localized": "使用SFDP信息读写擦除闪存芯片",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_FLASH_ERASE": {
+        "Localized": "擦除闪存芯片",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_FLASH_WRITE": {
+        "Localized": "写文件到闪存芯片",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_FLASH_READ": {
+        "Localized": "读闪存芯片到文件",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_FLASH_VERIFY": {
+        "Localized": "验证闪存芯片与文件",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_VADC": {
+        "Localized": "测量IO引脚电压",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_VADC_SINGLE": {
+        "Localized": "单次测量",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_VADC_CONTINUOUS": {
+        "Localized": "连续测量",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_I2C_SCAN": {
+        "Localized": "扫描I2C地址",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_UART_BRIDGE": {
+        "Localized": "打开UART串口桥接模式",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_UART_BRIDGE_EXIT": {
+        "Localized": "UART桥接模式，按Bus Pirate按钮退出",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_SCRIPT": {
+        "Localized": "运行脚本、宏和按钮功能",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_SCRIPT": {
+        "Localized": "运行脚本文件，自动化",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_BUTTON": {
+        "Localized": "为按钮按下分配脚本文件",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_MACRO": {
+        "Localized": "运行宏，加载宏文件",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_LOGIC": {
+        "Localized": "逻辑分析仪控制",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_LOGIC_START": {
+        "Localized": "启动逻辑分析仪",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_LOGIC_STOP": {
+        "Localized": "停止逻辑分析仪",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SECTION_TOOLS": {
+        "Localized": "工具和实用程序",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_LOGIC": {
+        "Localized": "逻辑分析仪",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_LIFE": {
+        "Localized": "康威生命游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_SNAKE": {
+        "Localized": "贪吃蛇游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_2048": {
+        "Localized": "2048数字益智游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_TTT": {
+        "Localized": "井字棋对战AI",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_HANGMAN": {
+        "Localized": "猜词游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_MINES": {
+        "Localized": "扫雷游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_BRICKS": {
+        "Localized": "砖块弹球游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_INVADERS": {
+        "Localized": "太空侵略者游戏",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_CMD_CLS": {
+        "Localized": "清除并重置终端",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_AUXIO": {
+        "Localized": "设置IO引脚状态，读取输入引脚",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_AUXIO_LOW": {
+        "Localized": "输出，低/0。保留引脚用于输出",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_AUXIO_HIGH": {
+        "Localized": "输出，高/1。保留引脚用于输出",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_AUXIO_INPUT": {
+        "Localized": "输入，读取状态。释放保留的引脚",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_HEX": {
+        "Localized": "以十六进制格式打印文件内容",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_CAT": {
+        "Localized": "以文本形式打印文件内容",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_MKDIR": {
+        "Localized": "在内部存储上创建目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_CD": {
+        "Localized": "更改内部存储上的目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_RM": {
+        "Localized": "删除内部存储上的文件或目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_LS": {
+        "Localized": "列出内部存储上的文件和目录",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_FORMAT": {
+        "Localized": "擦除并以FAT16格式格式化内部存储",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": null,
+        "DataTypes": []
+    },
+    "T_HELP_DISK_LABEL": {
+        "Localized": "获取或设置磁盘标签",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_WARN_VOUT_VREF_LOW": {
+        "Localized": "VOUT/VREF引脚未通电。使用W启用电源，或连接外部电源",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_USE_PREVIOUS_SETTINGS": {
+        "Localized": "使用之前的设置？",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_NO_VOUT_VREF_ERROR": {
+        "Localized": "VOUT/VREF引脚未检测到电压",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_NO_VOUT_VREF_HINT": {
+        "Localized": "提示：使用W启用电源，或连接外部电源",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_NO_PULLUP_ERROR": {
+        "Localized": "IO引脚上未检测到上拉电阻",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_MODE_NO_PULLUP_HINT": {
+        "Localized": "提示：使用P启用上拉电阻，或使用外部上拉",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_PSU_CURRENT_LIMIT_ERROR": {
+        "Localized": "电流超限，电源已关闭",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_PSU_SHORT_ERROR": {
+        "Localized": "可能短路，电源已关闭",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
+    },
+    "T_PSU_ALREADY_DISABLED_ERROR": {
+        "Localized": "电源已关闭",
+        "EN_US": null,
+        "Comments": null,
+        "DataTypes": []
     }
 }
